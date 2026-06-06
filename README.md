@@ -1,4 +1,4 @@
-<img width="959" height="146" alt="image" src="https://github.com/user-attachments/assets/8b90cf5f-357b-44a8-ab22-62ab3b51792f" />Set Up GitHub Repository:
+Set Up GitHub Repository:
 
 The first step in our CI journey is to set up a GitHub repository to store our Python application's source code.
 Go to github.com and sign in to your account.
@@ -56,7 +56,7 @@ Fantastic! With AWS CodeBuild all set up, we're now ready to witness the magic o
 <img width="949" height="386" alt="image" src="https://github.com/user-attachments/assets/c1a50ee5-9592-40b2-b8cf-73f8709609b1" />
 
 <img width="959" height="146" alt="image" src="https://github.com/user-attachments/assets/d8b3b3b1-c9bf-46a4-8beb-ec6116ecc558" />
-
+<img width="959" height="146" alt="image" src="https://github.com/user-attachments/assets/8b90cf5f-357b-44a8-ab22-62ab3b51792f" />
 
 
 <img width="958" height="410" alt="image" src="https://github.com/user-attachments/assets/ef5d95bb-2f04-4a96-b8da-14fc29fe4ccb" />
